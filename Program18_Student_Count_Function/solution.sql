@@ -21,4 +21,4 @@ END //
 
 DELIMITER ;
 
-SELECT CountStudentsByDepartment(1) AS StudentCount;
+SELECT CountStudentsByDepartment(1) AS StudentCount;;
